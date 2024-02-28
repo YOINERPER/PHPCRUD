@@ -1,0 +1,1 @@
+<h1 class="p-5 text-center">BIENVENIDOS A COLPATRIA</h1>
